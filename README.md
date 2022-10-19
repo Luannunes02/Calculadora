@@ -1,4 +1,7 @@
 # Calculadora
+
+![Calculadora](https://user-images.githubusercontent.com/105875989/196572570-f8e2f7f6-0bd3-4634-bad7-f9ab1d63a9f4.gif)
+
  Calculadora feita usando JavaScript
 
 <hr>
